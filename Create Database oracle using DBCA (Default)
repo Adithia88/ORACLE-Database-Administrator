@@ -1,0 +1,57 @@
+Here we gonna make oracle database using DBCA (default)
+
+1. write dbca, enter 
+
+
+![Image](https://github.com/users/Adithia88/projects/1/assets/69165337/20a8bb6d-433f-463f-a456-5fc2a8979b94)
+
+2. choose create a database, next
+
+
+
+![Image](https://github.com/users/Adithia88/projects/1/assets/69165337/89cdd2a6-f8a6-4656-84c7-3b3ec74d5a9c)
+
+3.  Fill the column, next
+
+Global database name (default)
+storage type (default)
+database file location (default)
+fast recovery area (FRA) (default)
+Database character set (default)
+administrative password (type password)
+create as a container database
+plugagable database name : pdb1 
+
+
+![Image](https://github.com/users/Adithia88/projects/1/assets/69165337/2efdc8a9-5540-4c95-9391-493eb9bd9a8b)
+
+4.  summary , finish
+
+
+![Image](https://github.com/users/Adithia88/projects/1/assets/69165337/5f394ed6-64bf-47dd-a0c7-cae3a2e668ca)
+
+5. Wait till all progress done
+
+
+
+![Image](https://github.com/users/Adithia88/projects/1/assets/69165337/2ba5e9f6-79cd-45f6-92d6-f69c57ca3491)
+
+
+6. Finish , Close
+
+
+![Image](https://github.com/users/Adithia88/projects/1/assets/69165337/02d7d520-f1e8-40ae-9a0d-50c33ff2ace9)
+
+
+
+(database has been created but , the tns must be define  $oracle_home network/admin/tnsnam.ora) (liat yang orcl saja karena database yang kita buat sidnya orcl) 
+
+
+
+![Image](https://github.com/users/Adithia88/projects/1/assets/69165337/5b3ba6ea-edd2-4c81-be2f-c3f38ffe4546)
+
+
+
+
+
+
